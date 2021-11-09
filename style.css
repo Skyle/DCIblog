@@ -1,0 +1,43 @@
+body {
+  font-family: "Playfair Display";
+}
+
+.post {
+  border: 2px darkgreen solid;
+  border-radius: 4px;
+  padding: 1rem;
+  margin-top: 2rem;
+  box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
+}
+h1 {
+  text-align: center;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+}
+.bildcontainer {
+  margin-left: -1rem;
+  margin-right: -1rem;
+}
+.bild {
+  width: 100%;
+  padding-top: 1rem;
+}
+
+.introtext {
+  font-size: large;
+}
+
+a {
+  text-decoration: none;
+  color: darkgreen;
+}
+
+.title {
+  font-family: "Mochiy Pop One";
+  line-height: 1;
+}
+
+.postcontainer {
+  max-width: 720px;
+  margin: auto;
+}
