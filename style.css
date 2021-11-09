@@ -9,6 +9,9 @@ body {
   margin-top: 2rem;
   box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
 }
+.post:hover {
+  background-color: rgba(0, 100, 0, 0.15);
+}
 h1 {
   text-align: center;
   padding-top: 1rem;
